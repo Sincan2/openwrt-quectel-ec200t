@@ -1,6 +1,6 @@
 ## 💾 README.md (versi penuh siap upload)
 
-````markdown
+
 # 🚀 OpenWRT Quectel EC200T Integration (Auto Setup & AT Control)
 
 > Otomatisasi deteksi dan koneksi modem **Quectel EC200T (ECM-only)** pada sistem OpenWRT / ImmortalWRT.  
