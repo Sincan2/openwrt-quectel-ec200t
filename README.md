@@ -1,5 +1,3 @@
----
-
 ## 💾 README.md (versi penuh siap upload)
 
 ````markdown
@@ -9,7 +7,6 @@
 > Didesain agar modem langsung online saat colok USB tanpa perlu perintah manual panjang.  
 > Proyek ini dikembangkan oleh **PT Terra Net Indonesia (2025)** untuk digunakan di router **HC-G80 / MT7981** dan kompatibel juga dengan board MT7621, ARM64, dan x86.
 
----
 
 ## 🌐 Fitur Utama
 
