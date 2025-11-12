@@ -1,4 +1,3 @@
----
 
 ## 📂 **STRUKTUR DIREKTORI**
 
@@ -16,7 +15,6 @@ openwrt-quectel-ec200t/
             └── 10-quectel_ec200.sh
 ```
 
----
 
 ## 🧾 **README.md**
 
