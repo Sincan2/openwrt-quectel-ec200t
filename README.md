@@ -17,7 +17,7 @@
 ✅ Hotplug USB otomatis — langsung online saat modul dicolok  
 ✅ Tidak perlu QMI/MBIM karena EC200T hanya mendukung ECM  
 
----
+
 
 ## ⚙️ Prasyarat
 
@@ -35,7 +35,7 @@ opkg install kmod-usb-net-cdc-ether kmod-usb-serial-option usbutils socat
 * `usbutils` → perintah `lsusb`
 * `socat` → mengirimkan perintah AT command ke modem
 
----
+
 
 ## 🔌 Deteksi Awal Perangkat
 
