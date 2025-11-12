@@ -1,6 +1,3 @@
-Siap 🔥 berikut saya buatin versi **lengkap, rapi, dan profesional** untuk GitHub-mu — sudah siap langsung copy-paste ke repositori [`https://github.com/Sincan2/openwrt-quectel-ec200t`](https://github.com/Sincan2/openwrt-quectel-ec200t).
-Struktur ini akan bikin repositori kamu terlihat seperti proyek open source yang matang.
-
 ---
 
 ## 📂 **STRUKTUR DIREKTORI**
