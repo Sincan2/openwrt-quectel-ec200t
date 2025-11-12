@@ -148,8 +148,8 @@ Lihat [LICENSE](LICENSE) untuk detail.
 
 ## 🧑‍💻 Pembuat
 
-**PT Terra Net Indonesia** – 2025
-Dikelola oleh [Sincan2 / TerraNet Developer](https://github.com/Sincan2)
+**Sincan2** – 2025
+Dikelola oleh [Sincan2 / Developer](https://github.com/Sincan2)
 
 ---
 
